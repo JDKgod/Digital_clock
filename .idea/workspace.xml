@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6ac7c91-27a7-4e22-954b-1302924b6988" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mydigital_clock.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Digitalclock.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Digitalclock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/digi_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mydigital_clock.java" afterDir="false" />
-    </list>
+    <list default="true" id="d6ac7c91-27a7-4e22-954b-1302924b6988" name="Changes" comment="1st commit for my digital clock" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,8 +64,16 @@
       <option name="presentableId" value="Default" />
       <updated>1656827459542</updated>
       <workItem from="1656827460935" duration="4197000" />
-      <workItem from="1657036349212" duration="5541000" />
+      <workItem from="1657036349212" duration="5722000" />
     </task>
+    <task id="LOCAL-00001" summary="1st commit for my digital clock">
+      <created>1657044996325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657044996325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st commit for my digital clock" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit for my digital clock" />
   </component>
 </project>

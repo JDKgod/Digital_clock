@@ -38,7 +38,7 @@ public class Digitalclock extends JFrame {
 
                 time.setText(FormattedDateTime);
                 Date.setText(FormattedDate);
-               // System.out.println("Iam a coder");
+                System.out.println("Iam a coder");
             }
         });
         timer.start();
